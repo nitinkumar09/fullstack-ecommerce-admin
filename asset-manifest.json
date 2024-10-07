@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fullstack-ecommerce-admin/static/css/main.ecde9345.css",
+    "main.js": "/fullstack-ecommerce-admin/static/js/main.efe9148d.js",
+    "static/js/206.062a8f72.chunk.js": "/fullstack-ecommerce-admin/static/js/206.062a8f72.chunk.js",
+    "static/media/pattern.webp": "/fullstack-ecommerce-admin/static/media/pattern.df9a7a28fc13484d1013.webp",
+    "index.html": "/fullstack-ecommerce-admin/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.ecde9345.css",
+    "static/js/main.efe9148d.js"
+  ]
+}
